@@ -15,6 +15,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsoares12&show_icons=true&locale=en&layout=compact" alt="rafaelsoares12" width="500" height="500" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelsoares12&show_icons=true&locale=en" alt="rafaelsoares12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelsoares12&show_icons=true&locale=en" alt="rafaelsoares12" width="500" height="500" /></p>
 
 
