@@ -14,4 +14,4 @@
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ---
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSoares12&show_icons=true&theme=dracula&include_all_commits=true)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSoares12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
