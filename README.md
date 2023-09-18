@@ -15,11 +15,6 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ---
 
-![Top Langs](https://github-readme-stats-n7iygipoc-rafaelsoares12.vercel.app/api/top-langs/?username=RafaelSoares12&layout=compact&hide=css,html,scss)
+![Rafael's GitHub stats](https://github-readme-stats-n7iygipoc-rafaelsoares12.vercel.app/api?username=RafaelSoares12&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+![Top Langs](https://github-readme-stats-n7iygipoc-rafaelsoares12.vercel.app/api/top-langs/?username=RafaelSoares12&layout=compact&hide=css,html,scss&card_width=320)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-n7iygipoc-rafaelsoares12.vercel.app/api?username=RafaelSoares12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&theme=transparent)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-n7iygipoc-rafaelsoares12.vercel.app/api/top-langs/?username=RafaelSoares12&layout=compact&hide=css,html,scss&card_width=320" />
-</a>
