@@ -15,6 +15,9 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ---
 
-![Rafael's GitHub stats](https://github-readme-stats-n7iygipoc-rafaelsoares12.vercel.app/api?username=RafaelSoares12&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&card_width=420)
-![Top Langs](https://github-readme-stats-n7iygipoc-rafaelsoares12.vercel.app/api/top-langs/?username=RafaelSoares12&layout=compact&hide=css,html,scss&card_width=420)
+<p>
+  <a href="https://github.com/RafaelSoares12">
+  <p><img height="180emm" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=RafaelSoares12&theme=dark&fire=#40C9B6&ring=40C9B6&currStreakLabel=red)](https://git.io/streak-stats"/></p>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSoares12&layout=compact&langs_count=7&theme=dark"/></p>
+</p>
 
