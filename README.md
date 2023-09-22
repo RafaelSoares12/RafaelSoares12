@@ -18,6 +18,6 @@
 <p>
   <a href="https://github.com/RafaelSoares12">
   <p><img height="180emm" align="left" src="https://streak-stats.demolab.com?user=RafaelSoares12&theme=dracula&hide_border=true&locale=pt_BR"/></p>
-  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSoares12&layout=compact&langs_count=7&theme=dark"/></p>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSoares12&layout=compact&langs_count=7&theme=dark&hide=css,html,scss"/></p>
 </p>
 
